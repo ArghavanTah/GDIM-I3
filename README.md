@@ -5,4 +5,4 @@ Heya, GDIM
 
 Adrian:
 Sofia:
-Arghavan:Hi!! Hi
+Arghavan: Hi
